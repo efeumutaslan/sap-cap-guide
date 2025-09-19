@@ -1,0 +1,4 @@
+locale,ID,title,genre,rating,director_ID,price,currency_code,seasons,episodes,ageRating
+tr,201,Tuhaf Şeyler,SciFi,8.7,103,19.99,USD,4,34,13
+tr,202,Kötüye Gidiş,Drama,9.5,104,24.99,USD,5,62,18
+tr,203,Taç,Drama,8.6,105,17.99,USD,3,30,13

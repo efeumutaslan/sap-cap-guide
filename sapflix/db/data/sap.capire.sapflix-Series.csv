@@ -1,0 +1,4 @@
+ID,title,genre,rating,director_ID,price,currency_code,seasons,episodes,ageRating
+201,Stranger Things,SciFi,8.7,103,19.99,USD,4,34,13
+202,Breaking Bad,Drama,9.5,104,24.99,USD,5,62,18
+203,The Crown,Drama,8.6,105,17.99,USD,3,30,13

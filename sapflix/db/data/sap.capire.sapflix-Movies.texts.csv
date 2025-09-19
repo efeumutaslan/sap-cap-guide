@@ -1,0 +1,7 @@
+locale,ID,title,genre,rating,director_ID,price,currency_code,runtime,release_date,ageRating
+tr,1,Başlangıç,SciFi,8.8,101,14.99,USD,148,2010-07-16,13
+tr,2,Kara Şövalye,Action,9.0,102,12.99,USD,152,2008-07-18,13
+tr,3,Yıldızlararası,SciFi,8.6,101,15.99,USD,169,2014-11-07,13
+tr,4,Matrix,SciFi,8.7,103,9.99,USD,136,1999-03-31,13
+tr,5,Ucuz Roman,Crime,8.9,104,11.99,USD,154,1994-10-14,18
+tr,6,Jaws,Gerilim,8.0,105,10.99,USD,124,1975-06-20,16
